@@ -9,6 +9,6 @@ public class Area
       System.out.println("Enter the breadth of the rectangle: ");
       int b=sc.nextInt();
       int Area=l*b;
-      System.out.println("Result id "+Area);
+      System.out.println("Result is "+Area);
     }
   }
